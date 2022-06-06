@@ -1,16 +1,10 @@
 {
 "wallpaper":"",
-//"spider": "http://tv.nxog.top/m/sprider77.jar",
+
 "spider": "http://fj365.ml/bb/xb.txt?raw=true",
-//"spider": "http://fj365.ml/6/0.txt?raw=true",
-//"spider":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/xm.jar",
+
 "sites":[
-//-------------------------------------------------------------爬虫资源-------------------------------------------------------------
-//{"key":"csp_Aidi","name":"爱迪(爬虫)","type":3,"api":"csp_Aidi","searchable":1,"quickSearch":0,"filterable":1},
-//{"key":"csp_Nekk","name":"9E看看(爬虫)","type":3,"api":"csp_Nekk","searchable":1,"quickSearch":0,"filterable":1},
-//{"key":"csp_Enlienli","name":"嗯哩嗯哩(爬虫)","type":3,"api":"csp_Enlienli","searchable":1,"quickSearch":0,"filterable":1},
-//{"key":"csp_N0ys","name":"90影视(爬虫)","type":3,"api":"csp_N0ys","searchable":1,"quickSearch":0,"filterable":0},
-{"key": "csp_77","name": "七七","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},
+//-------------------------------------------------------------爬虫资源--------------------------------------------------------
 
 {"key":"csp_Buka","name":"🐼真不卡022/5/22更新接口","type":3,"api":"csp_Buka","searchable":1,"quickSearch":0,"filterable":1},
 {"key":"csp_CZSPP","name":"🐼厂长资源(SP)","type":3,"api":"csp_CZSPP","searchable":1,"quickSearch":1,"filterable":0},
@@ -27,9 +21,6 @@
 {"key":"csp_Subaibai","name":"🐼素白白(SP)","type":3,"api":"csp_Subaibai","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"csp_Qicui","name":"🐼奇粹(SP)","type":3,"api":"csp_Qicui","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"csp_DY1990","name":"🐼90(SP)","type":3,"api":"csp_DY1990","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"csp_xpath_Hdmoli","name":"🐼Hdmoli(XPF)","type":3,"api":"csp_XPathHdmoli","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://fj365.ml/6/hdmoli.json"},
-{"key":"csp_xpath_egg","name":"🐼蛋蛋(XPF)","type":3,"api":"csp_XPathEgg","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://fj365.ml/6/dandan.json"},
-{"key":"csp_xpath_Gaze","name":"🐼注视(XPF)","type":3,"api":"csp_XPathGaze","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://fj365.ml/6/gaze.json"},
 //-------------------------------------------------------------自建BIUBIU-------------------------------------------------------------
 {"key":"csp_biubiu_骚火电影","name":"🥒骚火电影(XB)022/5/29更新接口","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://sontech.coding.net/p/1234/d/test/git/raw/master/biubiu/骚火电影.json"},
 {"key":"csp_biubiu_COKEMV","name":"🥒COKEMV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://sontech.coding.net/p/1234/d/test/git/raw/master/biubiu/COKEMV.json"},
