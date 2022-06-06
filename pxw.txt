@@ -33,7 +33,7 @@
 //-------------------------------------------------------------自建BIUBIU-------------------------------------------------------------
 {"key":"csp_biubiu_骚火电影","name":"🥒骚火电影(XB)022/5/29更新接口","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://sontech.coding.net/p/1234/d/test/git/raw/master/biubiu/骚火电影.json"},
 {"key":"csp_biubiu_COKEMV","name":"🥒COKEMV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://sontech.coding.net/p/1234/d/test/git/raw/master/biubiu/COKEMV.json"},
-{"key":"csp_biubiu_真不卡影院(不支持搜索)","name":"🥒真不卡影院(不支持搜索)(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://sontech.coding.net/p/1234/d/test/git/raw/master/biubiu/真不卡影院(不支持搜索).json"},
+{"key":"csp_biubiu_真不卡影院","name":"🥒真不卡影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://sontech.coding.net/p/1234/d/test/git/raw/master/biubiu/真不卡影院.json"},
 {"key":"csp_biubiu_555资源","name":"🥒555资源(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://sontech.coding.net/p/1234/d/test/git/raw/master/biubiu/555资源.json"},
 {"key":"csp_biubiu_555电影","name":"🥒555电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://sontech.coding.net/p/1234/d/test/git/raw/master/biubiu/555电影.json"},
 {"key":"csp_biubiu_影视工厂","name":"🥒影视工厂(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://sontech.coding.net/p/1234/d/test/git/raw/master/biubiu/影视工厂.json"},
@@ -88,7 +88,7 @@
 {"key":"csp_biubiu_大象TV","name":"🥒大象TV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://sontech.coding.net/p/1234/d/test/git/raw/master/biubiu/大象TV.json"},
 {"key":"csp_biubiu_4kan电影网","name":"🥒4kan电影网(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://sontech.coding.net/p/1234/d/test/git/raw/master/biubiu/4kan电影网.json"},
 {"key":"csp_biubiu_蓝莓影视","name":"🥒蓝莓影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://sontech.coding.net/p/1234/d/test/git/raw/master/biubiu/蓝莓影视.json"},
-{"key":"csp_biubiu_奇优影院（不支持搜）","name":"🥒奇优影院（不支持搜）(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://sontech.coding.net/p/1234/d/test/git/raw/master/biubiu/奇优影院（不支持搜）.json"},
+{"key":"csp_biubiu_奇优影院","name":"🥒奇优影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://sontech.coding.net/p/1234/d/test/git/raw/master/biubiu/奇优影院.json"},
 {"key":"csp_biubiu_影渣渣","name":"🥒影渣渣(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://sontech.coding.net/p/1234/d/test/git/raw/master/biubiu/影渣渣.json"},
 {"key":"csp_biubiu_牛马TV","name":"🥒牛马TV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://sontech.coding.net/p/1234/d/test/git/raw/master/biubiu/牛马TV.json"},
 {"key":"csp_biubiu_飘花播播","name":"🥒飘花播播(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://sontech.coding.net/p/1234/d/test/git/raw/master/biubiu/飘花播播.json"},
@@ -110,12 +110,8 @@
 {"key":"csp_biubiu_极品影视","name":"🥒极品影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://sontech.coding.net/p/1234/d/test/git/raw/master/biubiu/极品影视.json"},
 {"key":"csp_biubiu_139影视","name":"🥒139影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://sontech.coding.net/p/1234/d/test/git/raw/master/biubiu/139影视.json"},
 
-
-
-
-
 //-------------------------------------------------------------自建JSON-------------------------------------------------------------
-{"key":"达达龟","name":"达达龟#","type":3,"api":"csp_XPathFilter","filterable":1,"ext":"https://sontech.coding.net/p/1234/d/test/git/raw/master/json/ddg.json"},
+
 {"key":"剧白白","name":"剧白白#","type":3,"api":"csp_XPathMacFilter","filterable":1,"ext":"https://sontech.coding.net/p/1234/d/test/git/raw/master/json/jbb.json"},
 {"key":"348","name":"348#","type":3,"api":"csp_XPath","filterable":1,"ext":"https://sontech.coding.net/p/1234/d/test/git/raw/master/json/348z.json"},
 {"key":"弹幕","name":"弹幕#","type":3,"api":"csp_XPathMacFilter","filterable":1,"ext":"https://sontech.coding.net/p/1234/d/test/git/raw/master/json/dmyy.json"},
