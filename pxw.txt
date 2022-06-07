@@ -8,6 +8,9 @@
 "sites":[
 //-------------------------------------------------------------爬虫资源--------------------------------------------------------
 {"key": "88看球","name": "球赛直播","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://sontech.coding.net/p/1234/d/test/git/raw/master/json/88kanqiu.json"},
+{"key":"球迷","name":"球迷","type":3,"api": "csp_XPath","ext": "https://sontech.coding.net/p/1234/d/test/git/raw/master/json/qiumi.json"},
+{"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0},
+
 //{"key":"csp_Buka","name":"🐼真不卡022/5/22更新接口","type":3,"api":"csp_Buka","searchable":1,"quickSearch":0,"filterable":1},
 //{"key":"csp_CZSPP","name":"🐼厂长资源(SP)","type":3,"api":"csp_CZSPP","searchable":1,"quickSearch":1,"filterable":0},
 //{"key":"csp_Auete","name":"🐼Auete(SP)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":0,"filterable":1,"ext":""},
@@ -126,7 +129,7 @@
 {"key":"星星影视","name":"星星影视","type":3,"api": "csp_XPath","ext": "https://sontech.coding.net/p/1234/d/test/git/raw/master/json/xxys.json"},
 {"key":"ZZZLIKE","name":"ZZZLIKE","type":3,"api": "csp_XPath","ext": "https://sontech.coding.net/p/1234/d/test/git/raw/master/json/zzzlike.json"},
 
-{"key":"球迷","name":"球迷","type":3,"api": "csp_XPath","ext": "https://sontech.coding.net/p/1234/d/test/git/raw/master/json/qiumi.json"},
+
 
 {"key":"奥特","name":"奥特","type":3,"api": "csp_XPathMacFilter","ext": "https://sontech.coding.net/p/1234/d/test/git/raw/master/json/auete.json"},
 {"key":"尘落","name":"尘落","type":3,"api": "csp_XPathMacFilter","ext": "https://sontech.coding.net/p/1234/d/test/git/raw/master/json/chenluo.json"},
@@ -450,17 +453,17 @@
 {"key":"*鲨鱼资源","name":"*鲨鱼资源","type":0,"api":"https://shayuapi.com/api.php/provide/vod/at/xml"},
 {"key":"环","name":"环","type":0,"api":"http://wmcj8.com/inc/sapi.php","searchable":0,"quickSearch":0},
 {"key":"狼","name":"*狼","type":0,"api":"http://cjmygzy.com/inc/sapi.php?ac=videolist","searchable":0,"quickSearch":0},
-{"key":"富","name":"*富","type":0,"api":"http://f2dcj6.com/sapi?ac=videolist","searchable":0,"quickSearch":0},
-{"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0}
+{"key":"富","name":"*富","type":0,"api":"http://f2dcj6.com/sapi?ac=videolist","searchable":0,"quickSearch":0}
+
 ],
 //以下直播列表
-"lives":[
-{"group":"redirect","channels":[
-{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L2doL1l1YW5Ic2luZy9PbmVDbGlja1J1bkBtYXN0ZXIveHBhdGgvbGl2ZS50eHQ="]}]}],
+//"lives":[
+//{"group":"redirect","channels":[
+//{"name":"live","urls":["proxy://do=live&type=txt&//ext=aHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L2doL1l1YW5Ic2luZy9PbmVDbGlja1J1bkBtYXN0ZXIveHBhdGgvbGl2ZS50eHQ="]}]}],
 
-//"lives": [
-//{"group": "redirect","channels": [
-//{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cDovL3R5engud2VldGFpLmNuL210di96Yi50eHQ="]}]}],
+"lives": [
+{"group": "redirect","channels": [
+{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cDovL3R5engud2VldGFpLmNuL210di96Yi50eHQ="]}]}],
 
 
 //解X设置
