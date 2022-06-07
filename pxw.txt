@@ -1,7 +1,8 @@
 {
 "wallpaper":"",
 
-"spider": "http://fj365.ml/bb/xb.txt?raw=true",
+//"spider": "http://fj365.ml/bb/xb.txt?raw=true",
+"spider":"https://raw.fastgit.org/YuanHsing/OneClickRun/master/MeowXB/XBiubiuLA2.jar",
 
 "sites":[
 //-------------------------------------------------------------爬虫资源--------------------------------------------------------
