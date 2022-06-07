@@ -2,6 +2,7 @@
 "wallpaper":"",
 
 //"spider": "http://fj365.ml/bb/xb.txt?raw=true",
+//"spider": "https://try.gitea.io/woodsky1/woodsky/raw/branch/main/XBiubiuLA2.jar",
 "spider":"https://raw.fastgit.org/YuanHsing/OneClickRun/master/MeowXB/XBiubiuLA2.jar",
 
 "sites":[
