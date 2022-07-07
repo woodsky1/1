@@ -17,7 +17,6 @@
 {"key": "csp_Kmys"       ,"name":"🐞酷猫影视","type": 3,"api": "csp_Kmys","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_Bttoo"      ,"name":"🐞两个BT","type": 3,"api": "csp_Bttoo","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "360_spider"     ,"name":"🐞360影视","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
-{"key": "csp_LiteApple"  ,"name":"🐞苹果影视","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_BBB"        ,"name":"🐞bilibili","type": 3,"api": "csp_BBB","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 
@@ -295,7 +294,6 @@
 
 #18+
 {"key":"BT天堂","name":"BT天堂","type":0,"api":"http://bttcj.com/inc/sapi.php","playUrl":"","categories":"","":""},
-{"key":"*523资源","name":"*523资源","type":1,"api":"https://caiji.523zyw.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
 {"key":"*丝袜资源","name":"*丝袜资源","type":1,"api":"https://siwazyw.cc/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"*芒果资源","name":"*芒果资源","type":1,"api":"https://mgzyz1.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"*乐鱼资源","name":"*乐鱼资源","type":1,"api":"https://www.leyuzyapi.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
