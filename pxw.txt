@@ -85,7 +85,7 @@
 {"key":"csp_xpath_lranc","name":"🦋天天影视","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/total-skin_admin/test/raw/master/0704/lranc.json"},
 {"key":"csp_xpath_dmntv","name":"🦋弹幕影院","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/total-skin_admin/test/raw/master/0704/dmntv.json"},
 {"key":"csp_xpath_虎牙","name":"🦋虎牙","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/total-skin_admin/test/raw/master/0704/虎牙.json"},
-{"key":"csp_biubiu_Lgyy","name":"🐛蓝光影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/total-skin_admin/test/raw/master/0704/lgyy.json"},
+//{"key":"csp_biubiu_Lgyy","name":"🐛蓝光影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/total-skin_admin/test/raw/master/0704/lgyy.json"},
 {"key":"csp_xpath_酷奇mv","name":"🦋酷奇mv","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/total-skin_admin/test/raw/master/0704/酷奇MV.json"},
 //
 {"key":"csp_biubiu_LIBVIO","name":"🐛LIBVIO","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/total-skin_admin/test/raw/master/0703/LIBVIO.json"},
