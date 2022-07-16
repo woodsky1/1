@@ -296,19 +296,10 @@
 
 ],
 
-"lives": [
-    {
-      "group": "redirect",
-      "channels": [
-        {
-          "name": "redirect",
-          "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9mbHlpbmctZ3V5cy5jb2RpbmcubmV0L3AvbWFvL2QvamFyL2dpdC9yYXcvbWFzdGVyL2xpdmUvbXl0di50eHQ="
-          ]
-        }
-      ]
-    }
-  ],
+
+
+"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9wYW4uYmlsbm4uY29tL2FwaS92My9maWxlL3NvdXJjZWp1bXAvWHFOZEdsVGQvNUdsM3Noem9tMnRxc1ZYSWpURk1hQ3REdVhyYWQzOHljbV9OMVhKVlhlMCo="]}]}],
+
 
   "flags": ["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","xigua","renrenmi","ltnb","CL4K","rx","dmplay","duoduozy","xfyun"],
 
