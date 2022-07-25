@@ -13,7 +13,6 @@
     {"key":"csp_Tkys","name":"🐞天空影视","type": 3,"api": "csp_Tkys","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key":"csp_Nbys","name":"🐞泥巴(墙外)","type": 3,"api": "csp_Nbys","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key": "小宝影院","name": "小宝影院", "type": 3,"api": "csp_Xiaoh","searchable": 1,"quickSearch": 1,"filterable": 1,"plugin":"https://gitea.com/Pandora2277/TV/raw/branch/main/custom_spider.jar"},
-    {"key":"360_spider","name":"🐞360影视","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
     {"key":"csp_IKan","name":"🐞爱看","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key":"快看","name":"🐞快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},  
     {"key":"csp_CZSPP","name":"🐞厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
@@ -30,13 +29,8 @@
     {"key":"csp_DY1990","name":"🐞1990电影","type":3,"api":"csp_DY1990","searchable":1,"quickSearch":1,"filterable":1},
 
 //套别人的
-{"key":"csp_BBB","name":"🅱️哔哩套餐用五号接口","type":3,"api":"csp_B","searchable":0,"quickSearch":0,"filterable":1},
-{"key": "戏曲","name": "🅰️戏曲套餐用五号接口","type": 3,"api": "csp_Bq","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "演唱会","name": "🅰️演唱会套餐用五号接口","type": 3,"api": "csp_Bc","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_SP360","name":"💘360(SP)本接口在线维护更新","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Kuaikan","name":"👀快看(SP)QQ频道搜索云星日记加入群聊","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_biubiu_真不卡影院(不支持搜索)","name":"💥真不卡(不支持搜索)(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/zhenbuka.json"},
-{"key":"csp_LiteApple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},
 {"key": "csp_Kmys","name": "🐱酷猫影视","type": 3,"api": "csp_Kmys","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 {"key":"csp_biubiu_达达龟","name":"🍊达达龟(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/dadagui.json"},
