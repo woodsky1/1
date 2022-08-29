@@ -16,14 +16,15 @@
     {"key":"土狗2345","name":"🐞土狗2345(官)","type":1,"api":"http://2345.tgzy.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
     {"key":"土狗360","name":"🐞土狗360(官)","type":1,"api":"http://360.tgzy.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
 
-{"key": "T4","name": "T4网页","type": 4,"api": "https://t4.catvod.eu.org/catvod/gaze","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key":"csp_IKan","name":"🐞爱看","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key":"快看","name":"🐞快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},  
     {"key":"csp_CZSPP","name":"🐞厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Bttoo","name":"🐞两个BT","type": 3,"api": "csp_Bttoo","searchable": 1,"quickSearch": 1,"filterable": 1},  
     {"key":"push_agent","name":"🍭推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0},
-   
-
+   {"key":"csp_biubiu_厂长资源","name":"🐛厂长资源","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/total-skin_admin/test/raw/master/0703/厂长资源-蓝光.json"},
+ {"key":"csp_biubiu","name":"有声书","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/zn777/yshz/raw/branch/master/听小说有声书.json"},
+ {"key":"csp_biubiu","name":"新线路列表","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":" https://agit.ai/zn777/yshz/raw/branch/master/新线路列表.json"},
+{"key":"csp_biubiu_麻豆传媒破解","name":"麻豆传媒破解(XB)️","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"clan://tvbox/MeowXB/麻豆传媒破解.json"},
 
 //套别人的
 {"key":"csp_SP360","name":"💘360(SP)本接口在线维护更新","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
@@ -130,7 +131,7 @@
 {"key":"csp_biubiu_在线之家","name":"🐛在线之家","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/total-skin_admin/test/raw/master/0703/在线之家.json"},
 {"key":"csp_biubiu_周末电影","name":"🐛周末电影","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/total-skin_admin/test/raw/master/0703/周末电影.json"},
 {"key":"csp_biubiu_乐猪影视","name":"🐛乐猪影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/total-skin_admin/test/raw/master/0703/乐猪影视.json"},
-{"key":"csp_biubiu_厂长资源","name":"🐛厂长资源","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/total-skin_admin/test/raw/master/0703/厂长资源-蓝光.json"},
+
 {"key":"csp_biubiu_555电影","name":"🐛555电影","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/total-skin_admin/test/raw/master/0703/555电影.json"},
 {"key":"csp_biubiu_555资源","name":"🐛555资源","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/total-skin_admin/test/raw/master/0703/555资源.json"},
 {"key":"csp_biubiu_九亿资源","name":"🐛九亿资源","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/total-skin_admin/test/raw/master/0703/9亿资源.json"},
