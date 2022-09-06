@@ -4,25 +4,15 @@
 
 "sites": [
 
-    {"key":"csp_Tkys","name":"🐞天空影视","type": 3,"api": "csp_Tkys","searchable": 1,"quickSearch": 1,"filterable": 1},
-
-    {"key":"csp_gc","name":"📺官采资源","type":1,"api": "http://caiji.nxflv.com/api.php/provide/vod/?ac=list","playUrl":"parse:自动解析","categories": ["国产剧","港台剧","日韩剧","欧美剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","综艺频道"]},
-    {"key":"奈菲迷","name":"奈菲迷(优)","type":1,"api":"https://app.netflixmi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+  
    
-    {"key":"优众影视","name":"优众影视","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.178:8090/xgapp.php/v2/"},
-    {"key":"土狗2345","name":"🐞土狗2345(官)","type":1,"api":"http://2345.tgzy.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
-    {"key":"土狗360","name":"🐞土狗360(官)","type":1,"api":"http://360.tgzy.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
- 
-    {"key":"csp_CZSPP","name":"🐞厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"csp_Bttoo","name":"🐞两个BT","type": 3,"api": "csp_Bttoo","searchable": 1,"quickSearch": 1,"filterable": 1},  
-   {"key":"csp_biubiu_厂长资源","name":"🐛厂长资源","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/total-skin_admin/test/raw/master/0703/厂长资源-蓝光.json"},
-{"key": "csp_biubiu_23影院","name": "23影院(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/xibao/M/raw/branch/master/MaooXB2/23影院.json"},
-
-{"key":"t4public","name":"T4公共","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=阿里token&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"csp_Bttoo","name":"🐞两个BT","type": 3,"api": "csp_Bttoo","searchable": 1,"quickSearch": 1,"filterable": 1},  
+{"key":"csp_biubiu_厂长资源","name":"🐛厂长资源","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/total-skin_admin/test/raw/master/0703/厂长资源-蓝光.json"},
+{"key":"厂长影视","name":"厂长资源〔SP〕","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
+{"key": "csp_SP293","name":"293视频〔SP〕","type": 3,"api": "csp_SP293","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Kunyu77","name":"酷云七七〔SP〕","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/JAR/kuyun77.jar"},
 {"key":"csp_Lib","name":"LIBVIO〔SP〕","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_LiteApple","name":"小苹果〔SP〕","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"厂长影视","name":"厂长资源〔SP〕","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Cokemv","name":"Cokemv〔SP〕","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kuaikan","name":"快看〔SP〕","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"spider_IKan","name":"爱看〔SP〕","type":3,"api":"csp_IKan","searchable":1,"quickSearch":1,"filterable":1},
@@ -37,21 +27,11 @@
 {"key":"csp_EEEDY","name":"3EDY(EXO)","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mjxq_spider","name":"美剧星球〔SP〕","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Ddrk","name":"低端影视〔SP〕","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"csp_IQIYI","name":"爱奇艺〔SP〕","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_QQ","name":"企鹅〔SP〕","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_MGTV","name":"芒果TV〔SP〕","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Lib","name":"LIBVIO〔SP〕","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_SP360","name":"360〔SP〕","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "csp_Dy555","name":"555影院〔SP〕","type": 3,"api": "csp_Dy555","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "csp_SP293","name":"293视频〔SP〕","type": 3,"api": "csp_SP293","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "csp_Yj1211","name": "️直播合集〔SP〕","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "csp_Anime1","name": "小日本动漫〔SP〕","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key":"csp_xpath_88kanqiu","name":"88看球〔XP〕","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/XP/88kanqiu.json"},
-{"key": "csp_xpath_jrskan","name": "JRKAN直播〔XPF〕","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/XP/jrskan.json"},
-{"key":"csp_Bili","name":"哔哩套餐〔SP〕","type": 3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/XB/哔哩哔哩.json"},
-{"key": "剧荒TV〔SP〕","name": "剧荒TV〔SP〕","type": 3,"api": "csp_Juhuang","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key":"Nfyun","name":"Nf云〔SP〕","type":3,"api":"csp_Nfyun","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "bdys","name": "哔嘀(磁力测试)","type": 3,"api": "csp_XPbd","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/XP/bdys.json"},
+
+
+
+{"key": "T4a","name": "🍁T4聚合","type": 4,"api": "https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=5","searchable": 1,"quickSearch": 1,"filterable": 1},
+
 {"key": "Gitcafe","name":"小纸条〔SP〕","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"},
 {"key":"AliPS","name":"盘搜（仅搜索）","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":1,"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"},
 {"key":"FindZY","name":"找资源（仅搜索）","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"},
@@ -59,6 +39,15 @@
 {"key":"mtv_pc_yinfans","name":"音范丝（蓝光磁力）","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/zhanghong19830310/tv/raw/master/profile/xp/yinfans.json"},
 {"key": "push_agent","name":"推送（阿里/磁力）","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"},
 
+{"key":"csp_Alist2","name":"🅿️Alist合集(SP)","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://github.com/heroaku/TVboxo/raw/main/Bili/Alist.json","jar":"https://github.com/heroaku/TVboxo/raw/main/Jar/alist.jar"},
+{"key": "球类","name": "🅱体育扛把子球类🙄","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://github.com/heroaku/TVboxo/raw/main/Bili/我爱球.txt"},
+{"key": "游戏电竞","name": "🎮游戏电竞","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://github.com/heroaku/TVboxo/raw/main/Bili/电竞.json"},
+{"key": "体育","name": "💋体育合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://github.com/heroaku/TVboxo/raw/main/Bili/体育.json"},
+{"key":"AliPS","name":"🐞盘搜1","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":1,"ext":"27b06d5221a24199b15f2e573d847430"},
+{"key":"csp_GitCafe","name":"🐞小纸条(云盘)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext": "7b78e7a5aa8a4a8bb722ec7e171d9438"},
+{"key": "在线直播（SP）","name": "在线直播（SP）","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "csp_Yisou","name":"🐞易搜盘(SP)","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"3a49cf29cf20410997247c6eb4509be9"},
+{"key": "csp_Gitcafe","name":"🐞阿里纸条(SP)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0,"ext":"3a49cf29cf20410997247c6eb4509be9"},  
 
 
 //
