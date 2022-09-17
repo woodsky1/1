@@ -34,7 +34,7 @@
 好汉吧$https://8023.haohanba.cn#触光$https://pan.ichuguang.com#小江$https://dyj.me#米奇妙妙屋$https://anime.mqmmw.ga#神器云$https://quanzi.laoxianghuijia.cn#小光盘$https://alist.xiaoguanxiaocheng.life#帅盘$https://hi.shuaipeng.wang#资源小站$https://960303.xyz#晴园的宝藏库$https://alist.52qy.repl.co#嗨翻$https://pan.hikerfans.com#一只鱼$https://alist.youte.ml#听闻网盘$https://wangpan.sangxuesheng.com#菊花盘$https://pan.142856.xyz#神族九帝$https://alist.shenzjd.com#姬路白雪の资源小站$https://pan.jlbx.xyz#七米蓝$https://al.chirmyram.com"},
 
 
-
+{"key":"csp_Alist","name":"ALIST合集","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/ext/Alist.json"},
 
 
 {"key":"搜索┃阿里盘搜1","name":"搜索┃阿里盘搜1","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://alist.youte.ml"},
