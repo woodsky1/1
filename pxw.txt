@@ -118,6 +118,9 @@
 
 
 #18+
+
+{"key":"csp_biubiu_乐猪影视","name":"🐛乐猪影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/138001380000/MHQTV/raw/branch/master/黄仓库.json"},
+
 {"key":"BT天堂","name":"BT天堂","type":0,"api":"http://bttcj.com/inc/sapi.php","playUrl":"","categories":"","":""}
 
 ],
