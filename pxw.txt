@@ -1,6 +1,7 @@
 {
   //"spider":"https://shadowchiu369.github.io/TVBox/jar/sc.jar;md5;8aec17bf8be0e425fb3cdd536652ef7a",
-  "spider":"https://raw.iqiq.io/liu673cn/box/main/sub/jar/209.jar;md5;18D26913107F18900630BF4CB1553ADB",
+  //"spider":"https://raw.iqiq.io/liu673cn/box/main/sub/jar/209.jar;md5;18D26913107F18900630BF4CB1553ADB",
+ "spider":"https://agit.ai/fenwe/TVBox/raw/branch/master/jar/0922.jar",
 
 "lives": [{"group": "redirect","channels": [{"name": "redirect","urls": [
 "proxy://do=live&type=txt&ext=aHR0cDovLzl4aTRvLnRrL3N1Yi9teXR2LnR4dA=="
