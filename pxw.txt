@@ -9,31 +9,19 @@
 "sites": [
 
   
-{"key":"T4_douban","name":"影视推荐","type":4,"api":"http://top.fuqizhishi.com/vod","searchable":1,"quickSearch":1,"filterable":0},  
 {"key": "360","name": "360","type": 3,"api": "csp_SP360","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "Kunyu77","name": "七七","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "Kmys","name": "酷猫","type": 3,"api": "csp_Kmys","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "Ikan","name": "Ikan","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "小宝影院","name": "小宝影院","type": 3,"api": "csp_Xiaoh","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://agit.ai/fenwe/TVBox/raw/branch/master/jar/Tangrenjie.jar"},
-{"key": "If101","name": "If101","type": 3,"api": "csp_If101","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key":"csp_Tangrenjie","name":"唐人街","type":3,"api":"csp_Tangrenjie","searchable":1,"quickSearch":1,"filterable":1,"ext":"","jar":"https://agit.ai/fenwe/TVBox/raw/branch/master/jar/Tangrenjie.jar"},
-{"key":"csp_Nbys","name":"泥巴","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "Olevod","name": "Olevod","type": 3,"api": "csp_Olevod","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key":"csp_DiDuan" ,"name":"低端影视","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":1},
+
+
 {"key": "厂长影视","name": "厂长影视","type": 3,"api": "csp_Czsapp","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "小苹果","name": "小苹果","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "Lib","name": "Libvio","type": 3,"api": "csp_Lib","searchable": 1,"quickSearch": 1,"filterable": 1},
+
 {"key": "Cokemv","name": "Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "Nfyun","name": "Nf云","type": 3,"api": "csp_Nfyun","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "9E03","name": "9E03","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://vod.9e03.com/lvdou_api.php/v1.vod","jar":"https://agit.ai/fenwe/TVBox/raw/branch/master/jar/9e03.jar"},
 {"key": "Kuaikan","name": "快看","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key":"爱看","name":"爱看","api":"csp_IKan","type":3,"filterable":1,"quickSearch":1,"searchable":1},
-{"key": "zxzj","name": "在线之家","type": 3,"api": "csp_Zxzj","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"KanSJ_spider","name":"看视界","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key": "Auete","name": "Auete","type":3,"api": "csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "Smdyy_spider","name":"神马影院","type":3,"api": "csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "Mjxq","name":"美剧星球","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "小熊","name":"小熊TV","type":3,"api":"csp_Xxys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"293视频","name":"293视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_追剧喵","name":"追剧喵","api":"csp_csp_ZJMiao","type":3,"filterable":1,"quickSearch":1,"searchable":1},
@@ -71,13 +59,43 @@
 {"key": "csp_FindZY","name": "💡找资源(仅搜索)","type": 3,"api": "csp_FindZY","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"},
 {"key": "csp_Yiso","name": "🔍易搜(仅搜索)","type": 3,"api": "csp_Yiso","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"},
 
+{"key":"Zhaozy","name":"找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/fenwe/TVBox/raw/branch/master/sub/alitoken.json"},
+{"key":"AliPS","name":"盘搜","type": 3,"api": "csp_AliPS","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/fenwe/TVBox/raw/branch/master/sub/alitoken.json"},
+{"key":"csp_Gitcafe","name":"小纸条","type":3,"api":"csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/fenwe/TVBox/raw/branch/master/sub/alitoken.json"},
+{"key":"csp_Yisou","name":"易搜盘","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/fenwe/TVBox/raw/branch/master/sub/alitoken.json"},
+{"key":"t4test","name":"T4测试","type":4,"api":"http://155.94.146.213:8080/vod?sites=all&ali_token=3865f0ab8f124688ad786a262af9b940&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"push_agent","name": "推送","type": 3,"api": "csp_PushAgent","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"https://agit.ai/fenwe/TVBox/raw/branch/master/sub/alitoken.json"},
+{"key": "UP云搜","name": "UP云搜","type": 3,"api": "csp_Upyunso","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "py_yiso","name": "易搜(pyramid)","type": 3,"api": "py_yiso","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/fenwe/TVBox/raw/branch/master/plugin/py_yiso.py"}, 
+{"key": "py_zhaozy","name": "找资源(pyramid)","type": 3,"api": "py_zhaozy","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/fenwe/TVBox/raw/branch/master/plugin/py_zhaozy.py"}, 
+{"key": "py_pansou","name": "盘搜(pyramid)","type": 3,"api": "py_pansou","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/fenwe/TVBox/raw/branch/master/plugin/py_pansou.py"}, 
+{"key": "push_agent","name": "阿里(pyramid)","type": 3,"api": "py_ali","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://agit.ai/fenwe/TVBox/raw/branch/master/plugin/py_ali.py"}, 
+
+{"key": "py_gitcafe","name": "小纸条(pyramid)","type": 3,"api": "py_gitcafe","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/fenwe/TVBox/raw/branch/master/plugin/py_gitcafe.py"}, 
+{"key": "py_alist","name": "Alist(pyramid)","type": 3,"api": "py_alist","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://agit.ai/fenwe/TVBox/raw/branch/master/plugin/py_alist.py"}, 
+{"key": "py_cctv","name": "央视(pyramid)","type": 3,"api": "py_cctv","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/fenwe/TVBox/raw/branch/master/plugin/py_cctv.py"}, 
+{"key": "py_czspp","name": "厂长(pyramid)","type": 3,"api": "py_czspp","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/fenwe/TVBox/raw/branch/master/plugin/py_czspp.py"}, 
+{"key": "py_zxzj","name": "在线之家(pyramid)","type": 3,"api": "py_zxzj","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/fenwe/TVBox/raw/branch/master/plugin/py_zxzj.py"}, 
+{"key": "py_voflix","name": "Voflix(pyramid)","type": 3,"api": "py_voflix","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/fenwe/TVBox/raw/branch/master/plugin/py_voflix.py"}, 
+{"key": "py_gimytv","name": "剧迷(pyramid)","type": 3,"api": "py_gimytv","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/fenwe/TVBox/raw/branch/master/plugin/py_gimytv.py"}, 
+{"key": "py_genmov","name": "跟剧(pyramid)","type": 3,"api": "py_genmov","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/fenwe/TVBox/raw/branch/master/plugin/py_genmov.py"},
+{"key": "py_cokemv","name": "COKE(pyramid)","type": 3,"api": "py_cokemv","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/fenwe/TVBox/raw/branch/master/plugin/py_cokemv.py"}, 
+{"key": "py_xmaomi","name": "猫咪(pyramid)","type": 3,"api": "py_xmaomi","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/fenwe/TVBox/raw/branch/master/plugin/py_xmaomi.py"}, 
+{"key": "py_bilimd","name": "B站影视(pyramid)","type": 3,"api": "py_bilimd","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/fenwe/TVBox/raw/branch/master/plugin/py_bilimd.py"}, 
+{"key": "py_bilibili","name": "哔哩(pyramid)","type": 3,"api": "py_bilibili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/fenwe/TVBox/raw/branch/master/plugin/py_bilibili.py"}, 
+{"key": "py_huya","name": "虎牙(pyramid)","type": 3,"api": "py_huya","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/fenwe/TVBox/raw/branch/master/plugin/py_huya.py"}, 
+{"key": "py_douyu","name": "斗鱼(pyramid)","type": 3,"api": "py_douyu","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/fenwe/TVBox/raw/branch/master/plugin/py_douyu.py"}, 
+{"key": "py_bilivd","name": "B站(pyramid)","type": 3,"api": "py_bilivd","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/fenwe/TVBox/raw/branch/master/plugin/py_bilivd.py"},
+{"key": "py_3qu","name": "3QU(pyramid)","type": 3,"api": "py_3qu","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/fenwe/TVBox/raw/branch/master/plugin/py_3qu.py"},
+{"key": "py_cyys","name": "创艺(pyramid)","type": 3,"api": "py_cyys","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/fenwe/TVBox/raw/branch/master/plugin/py_cyys.py"},
+{"key": "py_wmkk","name": "完美看看(pyramid)","type": 3,"api": "py_wmkk","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/fenwe/TVBox/raw/branch/master/plugin/py_wmkk.py"},
+{"key": "py_kunyu77","name": "酷云77(pyramid)","type": 3,"api": "py_kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/fenwe/TVBox/raw/branch/master/plugin/py_kunyu77"},
+{"key": "py_kuaikan","name": "快看(pyramid)","type": 3,"api": "py_kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/fenwe/TVBox/raw/branch/master/plugin/py_kuaikan"},
 
 
 
 
 
-//
-{"key":"csp_xpath_扛把子影院","name":"扛把子影院(xpf)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXP/扛把子影院(xpf).json"},
 
 {"key":"csp_xpath_球迷","name":"比赛直播","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/woodsky1/p/main/json/qiumi.json"},
 {"key":"csp_xpath_看比赛","name":"球赛直播","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://try.gitea.io/woodsky1/woodsky/raw/branch/main/88kanqiu.json"},
