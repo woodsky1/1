@@ -44,6 +44,23 @@
 
 {"key": "csp_Alist2","name": "🗂Alist合集2","type": 3,"api": "csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "小兵$https://6vv.app/#Alist1Adult$https://drive.9t.ee#Alist2$https://alist.52qy.repl.co#Alist3$https://wangpan.sangxuesheng.com#Alist4非盘$http://www.feifwp.top#Alist5一只鱼$https://alist.youte.ml#Alist6小棉袄仓库$http://pan.haikuoshijie.cn#Alist7嗨翻$https://pan.hikerfans.com#Alist8姬路白雪$https://pan.jlbx.xyz#Alist12神族九帝$https://alist.shenzjd.com#","jar":"https://agit.ai/fenwe/TVBox/raw/branch/master/jar/Tangrenjie.jar"},
 
+{"key": "T4a","name": " 🎑T4聚合","type": 4,"api": "https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=5","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "douban-JS","name": "豆瓣[JS]","type": 3,"api": "https://github.com/pluto-player/updates/raw/main/android/plugins/js/douban.js"},
+{"key": "drpy_JS","name": "drpy[JS]","type": 3,"api": "https://github.com/pluto-player/updates/raw/main/android/plugins/js/drpy.min.js"},
+{"key":"Alist_js","name":"Alist(JS)","type":3,"api":"https://github.com/heroaku/TVboxo/raw/main/Js/alist.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://github.com/heroaku/TVboxo/raw/main/Js/alist_js.json"},
+{"key":"csp_Alist2","name":"🅿️Alist合集(SP)","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://github.com/heroaku/TVboxo/raw/main/Bili/Alist.json"},
+   
+ {"key": "py_zhaozy","name": " 🦂找资源","type": 3,"api": "py_zhaozy","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://github.com/heroaku/TVboxo/raw/main/Py/py_zhaozy.py"},
+    {"key": "py_pansou","name": " 🦂盘搜","type": 3,"api": "py_pansou","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://github.com/heroaku/TVboxo/raw/main/Py/py_pansou.py"},
+    {"key": "py_yiso","name": " 🦂易搜","type": 3,"api": "py_yiso","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://github.com/heroaku/TVboxo/raw/main/Py/py_yiso.py"},   
+    {"key": "py_gitcafe","name": " 🦂小纸条","type": 3,"api": "py_gitcafe","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://github.com/heroaku/TVboxo/raw/main/Py/py_gitcafe.py"},
+    {"key": "py_cyys","name": " 🦂创意影视","type": 3,"api": "py_cyys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://github.com/heroaku/TVboxo/raw/main/Py/py_cyys.py"},
+    {"key": "py_alist","name": " 🦂Alist","type": 3,"api": "py_alist","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://github.com/heroaku/TVboxo/raw/main/Py/py_alist.py"},
+    {"key": "py_push_agent","name": " 🦂阿里","type": 3,"api": "py_ali","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://github.com/heroaku/TVboxo/raw/main/Py/py_ali.py"},
+    {"key": "py_libvio","name": " 🐦Libvio","type": 3,"api": "py_libvio","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://github.com/heroaku/TVboxo/raw/main/Py/py_libvio.py"},
+    {"key": "py_qie","name": " 🐦QE体育","type": 3,"api": "py_qie","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://github.com/heroaku/TVboxo/raw/main/Py/py_qie.py"},
+    {"key": "py_jrskbs","name": " 🐦JRS直播","type": 3,"api": "py_jrskbs","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://github.com/heroaku/TVboxo/raw/main/Py/py_jrskbs.py"},
+
 
 
 {"key":"t4_公共","name":"📡公共(T4)","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=阿里token&timeout=10","searchable":0,"quickSearch":0,"filterable":0},
@@ -56,18 +73,9 @@
 
 
 {"key":"csp_Gitcafe","name":"📜小纸条(云盘)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0,"ext":"4acb3ad2f2254ba1b566279f7cd98ba3"},
-{"key": "csp_AliPS","name": "💿云盘搜(仅搜索)","type": 3,"api":" csp_AliPS","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"},
-{"key": "csp_FindZY","name": "💡找资源(仅搜索)","type": 3,"api": "csp_FindZY","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"},
-{"key": "csp_Yiso","name": "🔍易搜(仅搜索)","type": 3,"api": "csp_Yiso","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"},
 
-{"key":"Zhaozy","name":"找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/fenwe/TVBox/raw/branch/master/sub/alitoken.json"},
-{"key":"AliPS","name":"盘搜","type": 3,"api": "csp_AliPS","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/fenwe/TVBox/raw/branch/master/sub/alitoken.json"},
-{"key":"csp_Gitcafe","name":"小纸条","type":3,"api":"csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/fenwe/TVBox/raw/branch/master/sub/alitoken.json"},
-{"key":"csp_Yisou","name":"易搜盘","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/fenwe/TVBox/raw/branch/master/sub/alitoken.json"},
+
 {"key":"push_agent","name": "推送","type": 3,"api": "csp_PushAgent","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"https://agit.ai/fenwe/TVBox/raw/branch/master/sub/alitoken.json"},
-{"key": "UP云搜","name": "UP云搜","type": 3,"api": "csp_Upyunso","searchable": 1,"quickSearch": 1,"filterable": 1},
-
-
 
 
 
