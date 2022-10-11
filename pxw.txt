@@ -52,7 +52,7 @@
 
 {"key": "csp_AppTT","name": "🖼图图┃SP","type": 3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_Nmys","name": "🌾农民┃SP","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/sites/nmys.json"},
-{"key": "mtv_pc_完美看看","name": "👹完美┃T4","type": 4,"api": "http://home.jundie.top:666/psp/wmkk.php","searchable": 1,"quickSearch": 1,"filterable": 1},
+
 {"key": "293视频","name": "🥕293┃SP","type": 3,"api": "csp_SP293","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 
