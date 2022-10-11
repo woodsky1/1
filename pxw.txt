@@ -9,8 +9,15 @@
 
 "sites": [
 
-  
-{"key": "360","name": "360","type": 3,"api": "csp_SP360","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "多多资源","name": "🍊多多","type": 1,"api": "https://www.ddzyz1.com/api.php/provide/vod/?ac=list","searchable": 1"quickSearch": 1,//"playUrl":"https://player.movie09.com/dplayer/?url="}, 
+
+{"key": "csp_AppTT","name": "🖼图图┃SP","type": 3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "csp_Nmys","name": "🌾农民┃SP","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/sites/nmys.json"},
+{"key": "mtv_pc_完美看看","name": "👹完美┃T4","type": 4,"api": "http://home.jundie.top:666/psp/wmkk.php","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "293视频","name": "🥕293┃SP","type": 3,"api": "csp_SP293","searchable": 1,"quickSearch": 1,"filterable": 1},
+
+
+
 {"key": "Kunyu77","name": "七七","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 
@@ -66,6 +73,60 @@
 
 {"key":"csp_xpath_球迷","name":"比赛直播","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/woodsky1/p/main/json/qiumi.json"},
 {"key":"csp_xpath_看比赛","name":"球赛直播","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://try.gitea.io/woodsky1/woodsky/raw/branch/main/88kanqiu.json"},
+
+{
+            "key": "csp_xpath_球迷1",
+            "name": "⚽🏀球迷1",
+            "type": 3,
+            "api": "csp_XPath",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/sites/⚽🏀球迷1.json"
+        },
+        {
+            "key": "csp_XYQBiu_17看",
+            "name": "🏀17看球",
+            "type": 3,
+            "api": "csp_XYQBiu",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/sites/17看.json"
+        },
+        {
+            "key": "csp_xpath_qiumi",
+            "name": "⚽Jrs球迷",
+            "type": 3,
+            "api": "csp_XPathFilter",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/sites/dj看球.json"
+        },
+        {
+            "key": "csp_XYQBiu_310直播",
+            "name": "⚽310看球",
+            "type": 3,
+            "api": "csp_XYQBiu",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/sites/310直播.json"
+        },
+        {
+            "key": "csp_xBPQ_zf",
+            "name": "🏀抓饭体育",
+            "type": 3,
+            "api": "csp_xBPQ",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/sites/抓饭体育.json"
+        },
+
+
+
 
 
 {"key":"csp_xpath_酷奇mv","name":"🦋酷奇mv","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/total-skin_admin/test/raw/master/0704/酷奇MV.json"},
