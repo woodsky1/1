@@ -180,7 +180,6 @@
 {"key":"csp_biubiu_周末电影","name":"🐛周末电影","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/total-skin_admin/test/raw/master/0703/周末电影.json"},
 {"key":"csp_biubiu_乐猪影视","name":"🐛乐猪影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/total-skin_admin/test/raw/master/0703/乐猪影视.json"},
 
-{"key":"csp_biubiu_18","name":"🐛18+","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/tk9527/TVBox-1/raw/branch/main/18avv.json"},
 
 
 
