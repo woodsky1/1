@@ -9,7 +9,7 @@
 
 "sites": [
 
-{"key": "多多资源","name": "🍊多多","type": 1,"api": "https://www.ddzyz1.com/api.php/provide/vod/?ac=list","searchable": 1"quickSearch": 1,//"playUrl":"https://player.movie09.com/dplayer/?url="}, 
+
 
 {"key": "csp_AppTT","name": "🖼图图┃SP","type": 3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_Nmys","name": "🌾农民┃SP","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/sites/nmys.json"},
