@@ -8,7 +8,7 @@
         },
 
   {
-            "url": "https://try.gitea.io/woodsky1/woodsky/raw/branch/main/pxw.json",
+            "url": "https://try.gitea.io/woodsky1/woodsky/raw/branch/main/pxw.txt",
             "name": "👙皮鑫卫"
         },
 
