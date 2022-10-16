@@ -1,6 +1,6 @@
 {
  
- "spider":"https://agit.ai/Ltang/Tvsy/raw/branch/master/jar/1008.jar",
+ "spider":"https://agit.ai/artflash/tvbox/raw/branch/master/jar/gg.jar",
 
 "lives": [{"group": "redirect","channels": [{"name": "redirect","urls": [
 "proxy://do=live&type=txt&ext=aHR0cDovLzl4aTRvLnRrL3N1Yi9teXR2LnR4dA=="
