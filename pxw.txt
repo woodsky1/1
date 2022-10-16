@@ -51,8 +51,7 @@
         },
 
  {"key": "t4public","name": "T4公共","type": 4,"api": "https://t4.secan.icu/vod?sites=all&ali_token=f1e0b4c83afd47ad9eb2390f56fa36cd&timeout=10","searchable": 1,"quickSearch": 1,"filterable": 0},
-        {"key": "csp_⬇️网盘资源⬇️","name": "⬇️【网盘资源】⬇️","type": 3,"api": "csp_⬇️网盘资源⬇️","searchable": 0,"quickSearch": 0,"filterable": 0
-        },
+        
         {
             "key": "csp_Alist",
             "name": "🗂Alist",
