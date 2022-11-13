@@ -1,6 +1,6 @@
 {
  
- "spider":"https://agit.ai/guozu616/TVbox/raw/branch/main/jar/Gx.jar;md5; D55085E319FE2A2EEFA832A2BFF7080E",
+ "spider":"https://try.gitea.io/woodsky1/woodsky/raw/branch/main/Yoursmile.jar",
 
 "lives": [{"group": "redirect","channels": [{"name": "redirect","urls": [
 "proxy://do=live&type=txt&ext=aHR0cDovLzl4aTRvLnRrL3N1Yi9teXR2LnR4dA=="
