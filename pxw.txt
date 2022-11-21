@@ -8,49 +8,9 @@
 
 "sites": [
 
-{
-            "key": "多多资源",
-            "name": "多多",
-            "type": 1,
-            "api": "https://www.ddzyz1.com/api.php/provide/vod/?ac=list",
-            "searchable": 1,
-            "quickSearch": 1,
-            //"playUrl":"https://player.movie09.com/dplayer/?url=",
-            "categories": [
-                "国产剧",
-                "港台剧",
-                "日韩剧",
-                "欧美剧",
-                "泰国剧",
-                "动作片",
-                "喜剧片",
-                "爱情片",
-                "科幻片",
-                "恐怖片",
-                "剧情片",
-                "战争片",
-                "灾难片",
-                "犯罪片",
-                "悬疑片",
-                "惊悚片",
-                "奇幻片",
-                "冒险片",
-                "武侠片",
-                "记录片",
-                "论理",
-                "综艺",
-                "动漫",
-                "动画片",
-                "国产动漫",
-                "日韩动漫",
-                "欧美动漫",
-                "海外剧",
-                "国内综艺",
-                "海外综艺"
-            ]
-        },
 
-{key:'douban',name:'豆瓣|首页',type:4,api:'https://t4.secan.icu/vod?sites=voflix&timeout=7',searchable:1,quickSearch:1,filterable:1},{key:'360',name:'360(首页)',type:3,api:'csp_SP360',searchable:1,quickSearch:1,filterable:1},
+
+{key:'360',name:'360(首页)',type:3,api:'csp_SP360',searchable:1,quickSearch:1,filterable:1},
 {key:'csp_fant',name:'饭团',api:'csp_Fantuan',type:3,filterable:1,quickSearch:1,searchable:1},
 {key:'csp_Nkdy',name:'南柯',type:3,api:'csp_Nkdy',searchable:1,quickSearch:1,filterable:1},
 {key:'csp_Dy1010',name:'DY101',type:3,api:'csp_Dy1010',searchable:1,quickSearch:1,filterable:1},
