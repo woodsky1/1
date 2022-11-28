@@ -1,7 +1,7 @@
 {
  
- "spider":"https://try.gitea.io/woodsky1/woodsky/raw/branch/main/Yoursmile.jar",
-
+ //"spider":"https://try.gitea.io/woodsky1/woodsky/raw/branch/main/Yoursmile.jar",
+ "spider":" https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;0E0706DC2BDEE26BC46FD7617CF1B3B7",
 "lives": [{"group": "redirect","channels": [{"name": "redirect","urls": [
 "proxy://do=live&type=txt&ext=aHR0cDovLzl4aTRvLnRrL3N1Yi9teXR2LnR4dA=="
 ]}]}],
@@ -10,7 +10,7 @@
 
 
 
-{key:'360',name:'360(首页)',type:3,api:'csp_SP360',searchable:1,quickSearch:1,filterable:1},
+
 {key:'csp_fant',name:'饭团',api:'csp_Fantuan',type:3,filterable:1,quickSearch:1,searchable:1},
 {key:'csp_Nkdy',name:'南柯',type:3,api:'csp_Nkdy',searchable:1,quickSearch:1,filterable:1},
 {key:'csp_Dy1010',name:'DY101',type:3,api:'csp_Dy1010',searchable:1,quickSearch:1,filterable:1},
