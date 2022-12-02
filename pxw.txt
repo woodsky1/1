@@ -1,7 +1,7 @@
 {
  
- //"spider":"https://try.gitea.io/woodsky1/woodsky/raw/branch/main/Yoursmile.jar",
- "spider":" https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;0E0706DC2BDEE26BC46FD7617CF1B3B7",
+"spider":"https://try.gitea.io/woodsky1/woodsky/raw/branch/main/Yoursmile.jar",
+ // "spider":" https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;0E0706DC2BDEE26BC46FD7617CF1B3B7",
 "lives": [{"group": "redirect","channels": [{"name": "redirect","urls": [
 "proxy://do=live&type=txt&ext=aHR0cDovLzl4aTRvLnRrL3N1Yi9teXR2LnR4dA=="
 ]}]}],
