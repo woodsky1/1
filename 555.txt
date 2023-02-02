@@ -1,16 +1,29 @@
 {
     "urls": [
       
+  {
+            "url": "https://try.gitea.io/woodsky1/woodsky/raw/branch/main/pxw.txt",
+            "name": "👙皮鑫卫"
+        },
+
+
+  
+       
+  {
+            "url": " https://try.gitea.io/woodsky1/woodsky/raw/branch/main/pxw520.txt",
+            "name": "cr"
+        },
+
+
+
+
 
  {
             "url": "http://9xi4o.tk/0725.json",
             "name": "👙胡一刀"
         },
 
-  {
-            "url": "https://try.gitea.io/woodsky1/woodsky/raw/branch/main/pxw.txt",
-            "name": "👙皮鑫卫"
-        },
+
 
 {
             "url": "https://dxawi.github.io/0/0.json",
