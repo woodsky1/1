@@ -1,8 +1,8 @@
 {
  
-"spider":"https://agit.ai/83244551/p/raw/branch/master/index.jar",
+//"spider":"https://agit.ai/83244551/p/raw/branch/master/index.jar",
 
- //"spider":" https://notabug.org/qizhen15800/My9394/raw/master/jar/xBPQ1107.jar;md5;433A703E75C39542E6009A42416533ED",
+ "spider":" https://notabug.org/qizhen15800/My9394/raw/master/jar/xBPQ1107.jar;md5;433A703E75C39542E6009A42416533ED",
  //"spider":"https://456.team-426345.repl.co//files/custom_spider.jar",
 "lives": [{"group": "redirect","channels": [{"name": "redirect","urls": [
 "proxy://do=live&type=txt&ext=aHR0cDovLzl4aTRvLnRrL3N1Yi9teXR2LnR4dA=="
