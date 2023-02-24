@@ -7,16 +7,6 @@
         },
 
 
-  
-       
-  {
-            "url": " https://try.gitea.io/woodsky1/woodsky/raw/branch/main/pxw520.txt",
-            "name": "cr"
-        },
-
-
-
-
 
  {
             "url": "http://9xi4o.tk/0725.json",
