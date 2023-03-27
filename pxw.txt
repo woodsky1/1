@@ -1,12 +1,18 @@
 {
 /*-----------------------JAR包接口-----------------------*/
 //"spider":"https://agit.ai/65012833/Jar/raw/branch/master/zy2.jar",
-//"spider":"https://agit.ai/65012833/Jar/raw/branch/master/1218.jar",
+"spider":"spider":"https://agit.ai/ihymn/tvbox/raw/branch/master/ts.jar",
 
-"spider":"https://456.team-426345.repl.co//files/custom_spider.jar",
+//"spider":"https://456.team-426345.repl.co//files/custom_spider.jar",
 
 //*--------------直播-----(/tv/zy.txt)-------------*/
-"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpLzY1MDEyODMzL2RpYW5zaGkvcmF3L2JyYW5jaC9tYXN0ZXIvZGlhbnNoaS5qc29u"]}]}],
+"lives": [
+{"name":"直播IPV4","type":"0","url":"https://agit.ai/ihymn/tvbox/raw/branch/master/tv/zblive.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"直播IPV6","type":"0","url":"https://agit.ai/ihymn/tvbox/raw/branch/master/tv/ipv6.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"Aishang-V4","type":"0","playerType":"1","url":"https://agit.ai/ihymn/tvbox/raw/branch/master/tv/ASlive.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"FY-BESTV-V4","type":"0","url":"https://telegram-feiyangdigital.v1.mk/bestv.m3u"},
+{"name":"备用IPV4","type":"0","url":"https://raw.fastgit.org/vamoschuck/TV/main/M3U"}
+],
 
 "drives": [{"server":"","userName":"","password":"","type":"webdav"}],
 /*-----------------------配置数据源-----------------------*/
