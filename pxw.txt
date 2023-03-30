@@ -17,6 +17,7 @@
    "quickSearch": 0,
    "filterable": 1
   },
+{"key":"dr_豆瓣","name":"🔍豆瓣荐片(js)","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/drpy.js"},
 {"key":"烧火","name":"烧火TV(CJ)","type":4,"api":"http://81.68.89.191:16888/Php/shtv.php","searchable":0,"quickSearch":0,"filterable":1,"changeable":1},
 {"key":"zdytv","name":"爱4K影视(CJ)","type":"4","api":"http://81.68.89.191:16888/Php/zdytv.php","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1"},
 
