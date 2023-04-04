@@ -8,25 +8,20 @@
   
 {
 "sites":[
-  {
-   "key": "dr_真不卡",
-   "name": "真不卡(道长)",
-   "type": 1,
-   "api": "https://456.team-426345.repl.co//vod?rule=真不卡",
-   "searchable": 2,
-   "quickSearch": 0,
-   "filterable": 1
-  },
+{"key": "dr_真不卡","name": "真不卡(道长)","type": 1,"api": "https://456.team-426345.repl.co//vod?rule=真不卡","searchable": 2,   "quickSearch": 1,"filterable": 1},
+{"key": "dr_两个BT","name": "两个BT(道长)","type": 1,"api": "https://456.team-426345.repl.co//vod?rule=两个BT","searchable": 2,"quickSearch": 1,"filterable": 1},
+{"key": "dr_厂长资源","name": "厂长资源(道长)","type": 1,"api": "https://456.team-426345.repl.co//vod?rule=厂长资源","searchable": 2,   "quickSearch": 1,"filterable": 0},
+{"key": "dr_JRKAN直播","name": "JRKAN直播(道长)","type": 1,"api": "https://456.team-426345.repl.co//vod?rule=JRKAN直播","searchable": 0,
+"quickSearch": 0,"filterable": 0},
+{"key": "dr_JRS录像","name": "JRS录像(道长)","type": 1,"api": "https://456.team-426345.repl.co//vod?rule=JRS录像","searchable": 0,   "quickSearch": 0,"filterable": 0},
+{"key": "dr_88看球","name": "88看球(道长)","type": 1,"api": "https://456.team-426345.repl.co//vod?rule=88看球","searchable": 0,"quickSearch": 0,"filterable": 0},
+{"key": "dr_310直播","name": "310直播(道长)","type": 1,"api": "https://456.team-426345.repl.co//vod?rule=310直播","searchable": 0,   "quickSearch": 0,"filterable": 0},
+
 {"key":"dr_豆瓣","name":"🔍豆瓣荐片(js)","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/drpy.js"},
-{"key":"烧火","name":"烧火TV(CJ)","type":4,"api":"http://81.68.89.191:16888/Php/shtv.php","searchable":0,"quickSearch":0,"filterable":1,"changeable":1},
+{"key":"烧火","name":"烧火TV(CJ)","type":4,"api":"http://81.68.89.191:16888/Php/shtv.php","searchable":0,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"zdytv","name":"爱4K影视(CJ)","type":"4","api":"http://81.68.89.191:16888/Php/zdytv.php","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1"},
 
 //爬虫
-
-
-
-
-{"key":"csp_xp_bttwoo","name":"💢两个BT","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/MeowXP/bttwoo.json"},
 
 {"key":"LiteApple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kunyu77","name":"酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/65012833/Jar/raw/branch/master/77.jar"},
@@ -44,12 +39,6 @@
 {"key":"Lgyy","name":"蓝光影院(SP)","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"b2e573ff040fcd54b50475660ee1a7d1"},
 {"key":"Auete","name":"奥特影视(SP)","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","ext":"b04b15448ad5bd4312f1fa1fb9aa9b1b"},
 {"key": "IKan","name":"爱看影视(SP)","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50"},
-
-
-
-
-
-
 
 {"key":"csp_Xinsj","name":"新视觉(SP)","type":"3","api":"csp_Xinsj","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","ext":"https://www.6080dy2.com","jar":"http://81.68.89.191:16888/json/fan.jar;md5;a636612fad3f047f7df1690f8b4cfde4"},
 {"key":"Gitcafe","name":"小纸条(SP)","type":"3","api":"csp_Paper","searchable":"1","filterable":"1","changeable":"1","ext":"http://ali.饭太硬.ml/alitoken","jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"},
