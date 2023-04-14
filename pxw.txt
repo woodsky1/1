@@ -11,11 +11,41 @@
 {"key": "dr_真不卡","name": "真不卡(道长)","type": 1,"api": "https://456.team-426345.repl.co//vod?rule=真不卡","searchable": 2,   "quickSearch": 1,"filterable": 1},
 {"key": "dr_两个BT","name": "两个BT(道长)","type": 1,"api": "https://456.team-426345.repl.co//vod?rule=两个BT","searchable": 2,"quickSearch": 1,"filterable": 1},
 {"key": "dr_厂长资源","name": "厂长资源(道长)","type": 1,"api": "https://456.team-426345.repl.co//vod?rule=厂长资源","searchable": 2,   "quickSearch": 1,"filterable": 0},
-{"key": "dr_JRKAN直播","name": "JRKAN直播(道长)","type": 1,"api": "https://456.team-426345.repl.co//vod?rule=JRKAN直播","searchable": 0,
-"quickSearch": 0,"filterable": 0},
-{"key": "dr_JRS录像","name": "JRS录像(道长)","type": 1,"api": "https://456.team-426345.repl.co//vod?rule=JRS录像","searchable": 0,   "quickSearch": 0,"filterable": 0},
-{"key": "dr_88看球","name": "88看球(道长)","type": 1,"api": "https://456.team-426345.repl.co//vod?rule=88看球","searchable": 0,"quickSearch": 0,"filterable": 0},
-{"key": "dr_310直播","name": "310直播(道长)","type": 1,"api": "https://456.team-426345.repl.co//vod?rule=310直播","searchable": 0,   "quickSearch": 0,"filterable": 0},
+
+{"key": "dr_莫扎兔",
+            "name": "莫扎兔(drpy)",
+            "type": 3,
+            "api": "https://p.woodsky.repl.co//libs/drpy.min.js",
+            "searchable": 2,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://p.woodsky.repl.co//js/莫扎兔.js"
+        },
+{
+            "key": "dr_88看球",
+            "name": "88看球(drpy)",
+            "type": 3,
+            "api": "https://p.woodsky.repl.co//libs/drpy.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://p.woodsky.repl.co//js/88看球.js"
+        },
+ {
+            "key": "dr_310直播",
+            "name": "310直播(drpy)",
+            "type": 3,
+            "api": "https://p.woodsky.repl.co//libs/drpy.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://p.woodsky.repl.co//js/310直播.js"
+        },
+
+
+
+{"key": "dr_虎牙直播","name": "虎牙直播(drpy)","type": 3,"api": "https://p.woodsky.repl.co//libs/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "https://p.woodsky.repl.co//js/虎牙直播.js"},
+{"key": "dr_素白白","name": "素白白(drpy)","type": 3,"api": "https://p.woodsky.repl.co//libs/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "https://p.woodsky.repl.co//js/素白白.js"},
 
 {"key":"dr_豆瓣","name":"🔍豆瓣荐片(js)","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/drpy.js"},
 {"key":"烧火","name":"烧火TV(CJ)","type":4,"api":"http://81.68.89.191:16888/Php/shtv.php","searchable":0,"quickSearch":1,"filterable":1,"changeable":1},
