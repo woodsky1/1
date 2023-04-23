@@ -1,20 +1,16 @@
 
 /*-----------------------JAR包接口-----------------------*/
 //"spider":"https://agit.ai/65012833/Jar/raw/branch/master/zy2.jar",
-//"spider":"spider":"https://agit.ai/ihymn/tvbox/raw/branch/master/ts.jar",
+"spider":"spider":"https://agit.ai/ihymn/tvbox/raw/branch/master/ts.jar",
 
 //"spider":"https://456.team-426345.repl.co//files/custom_spider.jar",
 
   
 {
 "sites":[
-{"key":"本地","name":"💻本地视频","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":0,"type_flag":0},
 {"key": "dr_真不卡","name": "真不卡(道长)","type": 1,"api": "https://456.team-426345.repl.co//vod?rule=真不卡","searchable": 2,   "quickSearch": 1,"filterable": 1},
 {"key": "dr_两个BT","name": "两个BT(道长)","type": 1,"api": "https://456.team-426345.repl.co//vod?rule=两个BT","searchable": 2,"quickSearch": 1,"filterable": 1},
-{"key":"LIBVIO","name":"🔷LibVio","type":3,"api":"csp_Libvio","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://tv.libvio.cc/"},
-{"key":"csp_Czsapp","name":"🏭厂长","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"直播","name":"💻电视直播","type":3,"api":"https://ghproxy.com/raw.githubusercontent.com/52670576/tvbox/main/js/lib/dianbo.js","ext":"电视直播$https://ghproxy.com/raw.githubusercontent.com/52670576/tvbox/main/tv/live.txt#精选频道$https://ghproxy.com/raw.githubusercontent.com/52670576/tvbox/main/tv/jing.txt&&&https://api.caonm.net/api/mc/"},
 {"key":"豆瓣","name":"🔍豆瓣荐片","type":3,"api":"https://ghproxy.com/raw.githubusercontent.com/52670576/tvbox/main/js/lib/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.com/raw.githubusercontent.com/52670576/tvbox/main/js/douban.js"},
 
 {"key": "dr_莫扎兔",
@@ -49,7 +45,6 @@
 
 
 
-{"key": "dr_虎牙直播","name": "虎牙直播(drpy)","type": 3,"api": "https://p.woodsky.repl.co//libs/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "https://p.woodsky.repl.co//js/虎牙直播.js"},
 {"key": "dr_素白白","name": "素白白(drpy)","type": 3,"api": "https://p.woodsky.repl.co//libs/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "https://p.woodsky.repl.co//js/素白白.js"},
 {"key":"csp_Voflix","name":"🌀Voflix","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://ghproxy.com/raw.githubusercontent.com/52670576/tvbox/main/sub/voflix.json"},
 {"key":"csp_Bttoo","name":"✌两个BT","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
@@ -136,7 +131,6 @@
 {"name":"备用IPV4","type":"0","url":"https://raw.fastgit.org/vamoschuck/TV/main/M3U"}
 ],
 
-"spider":"https://agit.ai/ihymn/tvbox/raw/branch/master/ts.jar",
 //"spider":"img+https://ghproxy.com/https://raw.githubusercontent.com/Tangsan99999/-/master/newjar.bmp",
 
 "wallpaper":"https://picsum.photos/1280/720/?blur=5",
