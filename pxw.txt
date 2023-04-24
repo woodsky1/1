@@ -1,7 +1,8 @@
 
 /*-----------------------JAR包接口-----------------------*/
 //"spider":"https://agit.ai/65012833/Jar/raw/branch/master/zy2.jar",
-"spider":"spider":"https://agit.ai/ihymn/tvbox/raw/branch/master/ts.jar",
+//"spider":"spider":"https://agit.ai/ihymn/tvbox/raw/branch/master/ts.jar",
+"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;3FB7A166650CDE24E9BF51BC5C76E73C",
 
 //"spider":"https://456.team-426345.repl.co//files/custom_spider.jar",
 
@@ -10,55 +11,28 @@
 "sites":[
 {"key": "dr_真不卡","name": "真不卡(道长)","type": 1,"api": "https://456.team-426345.repl.co//vod?rule=真不卡","searchable": 2,   "quickSearch": 1,"filterable": 1},
 {"key": "dr_两个BT","name": "两个BT(道长)","type": 1,"api": "https://456.team-426345.repl.co//vod?rule=两个BT","searchable": 2,"quickSearch": 1,"filterable": 1},
+{"key": "dr_双十电影","name": "双十电影(道长)","type": 1,"api": "https://456.team-426345.repl.co//vod?rule=双十电影","searchable": 2,"quickSearch": 1,"filterable": 0},
+{"key":"豆瓣","name":"🔍豆瓣荐片","type":3,"api":"https://ghproxy.com/raw.githubusercontent.com/52670576/tvbox/main/js/lib/drpy2.min.js","searchable":2,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/raw.githubusercontent.com/52670576/tvbox/main/js/douban.js"},
 
-{"key":"豆瓣","name":"🔍豆瓣荐片","type":3,"api":"https://ghproxy.com/raw.githubusercontent.com/52670576/tvbox/main/js/lib/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.com/raw.githubusercontent.com/52670576/tvbox/main/js/douban.js"},
-
-{"key": "dr_莫扎兔",
-            "name": "莫扎兔(drpy)",
-            "type": 3,
-            "api": "https://p.woodsky.repl.co//libs/drpy.min.js",
-            "searchable": 2,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "https://p.woodsky.repl.co//js/莫扎兔.js"
-        },
-{
-            "key": "dr_88看球",
-            "name": "88看球(drpy)",
-            "type": 3,
-            "api": "https://p.woodsky.repl.co//libs/drpy.min.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://p.woodsky.repl.co//js/88看球.js"
-        },
- {
-            "key": "dr_310直播",
-            "name": "310直播(drpy)",
-            "type": 3,
-            "api": "https://p.woodsky.repl.co//libs/drpy.min.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://p.woodsky.repl.co//js/310直播.js"
-        },
-
-
-
-{"key": "dr_素白白","name": "素白白(drpy)","type": 3,"api": "https://p.woodsky.repl.co//libs/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "https://p.woodsky.repl.co//js/素白白.js"},
-{"key":"csp_Voflix","name":"🌀Voflix","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://ghproxy.com/raw.githubusercontent.com/52670576/tvbox/main/sub/voflix.json"},
-{"key":"csp_Bttoo","name":"✌两个BT","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
-
-
-{"key":"烧火","name":"烧火TV(CJ)","type":4,"api":"http://81.68.89.191:16888/Php/shtv.php","searchable":0,"quickSearch":1,"filterable":1,"changeable":1},
-{"key":"zdytv","name":"爱4K影视(CJ)","type":"4","api":"http://81.68.89.191:16888/Php/zdytv.php","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1"},
-
+{"key": "dr_LIBVIO","name": "LIBVIO(道长)","type": 1,"api": "https://456.team-426345.repl.co//vod?rule=LIBVIO","searchable": 2,"quickSearch": 1,"filterable": 0},
+{"key": "dr_voflix","name": "voflix(道长)","type": 1,"api": "https://456.team-426345.repl.co//vod?rule=voflix","searchable": 2,"quickSearch": 1,"filterable": 0},
+{"key": "dr_厂长资源","name": "厂长资源(道长)","type": 1,"api": "https://456.team-426345.repl.co//vod?rule=厂长资源","searchable": 2,"quickSearch": 1,"filterable": 0},
+{"key": "dr_8号影院","name": "8号影院(道长)","type": 1,"api": "https://456.team-426345.repl.co//vod?rule=8号影院","searchable": 2,"quickSearch": 1,"filterable": 0},
+//体育
+{"key": "dr_310直播","name": "310直播(道长)","type": 1,"api": "https://456.team-426345.repl.co//vod?rule=310直播","searchable": 0,"quickSearch": 0,"filterable": 0},
+{"key": "dr_JRS看球网","name": "JRS看球网(道长)","type": 1,"api": "https://456.team-426345.repl.co//vod?rule=JRS看球网","searchable": 0,"quickSearch": 0,"filterable": 0},
+{"key": "dr_JRS看直播","name": "JRS看直播(道长)","type": 1,"api": "https://456.team-426345.repl.co//vod?rule=JRS看直播","searchable": 0,"quickSearch": 0,"filterable": 0},
+{"key": "dr_JRKAN直播","name": "JRKAN直播(道长)","type": 1,"api": "https://456.team-426345.repl.co//vod?rule=JRKAN直播","searchable": 0,
+"quickSearch": 0,"filterable": 0},
+{"key": "dr_JRS录像","name": "JRS录像(道长)","type": 1,"api": "https://456.team-426345.repl.co//vod?rule=JRS录像","searchable": 0,"quickSearch": 0,"filterable": 0},
+{"key": "dr_88看球","name": "88看球(道长)","type": 1,"api": "https://456.team-426345.repl.co//vod?rule=88看球","searchable": 0,"quickSearch": 0,"filterable": 0},
 //爬虫
 
-{"key":"LiteApple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"小苹果","name":"🍎小苹果","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kunyu77","name":"酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/65012833/Jar/raw/branch/master/77.jar"},
 {"key":"Kuaikan","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 
+{"key":"csp_Auete","name":"🐼奥特","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 
 
 
@@ -69,19 +43,15 @@
 
 
 {"key":"Lgyy","name":"蓝光影院(SP)","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"b2e573ff040fcd54b50475660ee1a7d1"},
-{"key":"Auete","name":"奥特影视(SP)","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","ext":"b04b15448ad5bd4312f1fa1fb9aa9b1b"},
 
 
 
-{"key":"Gitcafe","name":"小纸条(SP)","type":"3","api":"csp_Paper","searchable":"1","filterable":"1","changeable":"1","ext":"http://ali.饭太硬.ml/alitoken","jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"},
 {"key":"Dm84","name":"动漫巴士(SP)","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","ext":"572192a9fe2136041a58e7219a46fb2b"},
 {"key": "Cokemv","name":"COKEMV(SP)","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","ext":"b88de1329655cca1beba45aa9776de70"},
 
 
 {"key":"Dy555","name":"三五电影(SP)","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","ext":"f41992bd740145ed58cb212dc0876582"},
 {"key":"mtv_pc_360" ,"name":"360影视(SP)","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","changeable":"1","filterable":"1","ext":"9248c57eb22ace4a3431fbd1a979465f"},
-{"key":"Bili","name":"哔哩哔哩(SP)","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"85b2986381a134ba3ebbaf25ae8138e7#https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json"},
-
 
 
 {"key":"1080资源库","name":"1080资源库(切)","type":1,"api":"https://api.1080zyku.com/inc/api_mac10.php","searchable":0,"quickSearch":0},
