@@ -10,8 +10,8 @@
             "name": "👙pxw_drpy2"
         },
 {
-            "url": "http://9xi4o.tk/0725.json",
-            "name": "👙胡一刀"
+            "url": "https://try.gitea.io/woodsky1/woodsky/raw/branch/main/pxw.txt",
+            "name": "👙pxw"
         },
 
 
