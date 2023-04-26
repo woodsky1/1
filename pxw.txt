@@ -18,14 +18,7 @@
 {"key": "dr_厂长资源","name": "厂长资源(道长)","type": 1,"api": "https://456.team-426345.repl.co//vod?rule=厂长资源","searchable": 2,"quickSearch": 1,"filterable": 0},
 {"key": "dr_8号影院","name": "8号影院(道长)","type": 1,"api": "https://456.team-426345.repl.co//vod?rule=8号影院","searchable": 2,"quickSearch": 1,"filterable": 0},
 
-{"key": "88看球","name": "88看球","type": 1,"api": "https://try.gitea.io/woodsky1/woodsky/raw/branch/main/JS/88看球.js","searchable": 2,"quickSearch": 1,"filterable": 0},
-{"key": "310直播","name": "310直播","type": 1,"api": "https://try.gitea.io/woodsky1/woodsky/raw/branch/main/JS/310直播.js","searchable": 2,"quickSearch": 1,"filterable": 0},
-{"key": "剧白白","name": "剧白白","type": 1,"api": "https://try.gitea.io/woodsky1/woodsky/raw/branch/main/JS/剧白白.js","searchable": 2,"quickSearch": 1,"filterable": 0},
-{"key": "厂长资源","name": "厂长资源","type": 1,"api": "https://try.gitea.io/woodsky1/woodsky/raw/branch/main/JS/厂长资源.js","searchable": 2,"quickSearch": 1,"filterable": 0},
-{"key": "双十电影","name": "双十电影","type": 1,"api": "https://try.gitea.io/woodsky1/woodsky/raw/branch/main/JS/双十电影.js","searchable": 2,"quickSearch": 1,"filterable": 0},
-{"key": "哔哩影视","name": "哔哩影视","type": 1,"api": "https://try.gitea.io/woodsky1/woodsky/raw/branch/main/JS/哔哩影视.js","searchable": 2,"quickSearch": 1,"filterable": 0},
-{"key": "真不卡","name": "真不卡","type": 1,"api": "https://try.gitea.io/woodsky1/woodsky/raw/branch/main/JS/真不卡.js","searchable": 2,"quickSearch": 1,"filterable": 0},
-{"key": "素白白","name": "素白白","type": 1,"api": "https://try.gitea.io/woodsky1/woodsky/raw/branch/main/JS/素白白.js","searchable": 2,"quickSearch": 1,"filterable": 0},
+
 //爬虫
 {"key":"csp_77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://try.gitea.io/woodsky1/woodsky/raw/branch/main/token"},
 //{"key":"csp_Kunyu77","name":"酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/65012833/Jar/raw/branch/master/77.jar"},
