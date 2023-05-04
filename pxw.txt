@@ -23,7 +23,7 @@
 {"key":"csp_77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://try.gitea.io/woodsky1/woodsky/raw/branch/main/token"},
 //{"key":"csp_Kunyu77","name":"酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/65012833/Jar/raw/branch/master/77.jar"},
 {"key":"dr_豆瓣","name":"🔍豆瓣","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/豆瓣.js"},
-{"key":"直播","name":"💻电视直播","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/直播转点播.js","ext":"南风$https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt#肥猫$http://我不是.肥猫.love:63/TV/tvzb.txt#饭太硬$https://agit.ai/fantaiying/fty/raw/branch/master/live.txt#影视范$https://agit.ai/fantaiying/fmm/raw/branch/main/tv/m3u/global.m3u&&&https://api.caonm.net/api/mc/"},
+{"key":"直播","name":"💻电视直播","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/直播转点播.js","ext":"南风$https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt#肥猫$http://我不是.肥猫.love:63/TV/tvzb.txt#直播$https://agit.ai/00700/vvebo/raw/branch/main/live.txt#饭太硬$https://agit.ai/fantaiying/fty/raw/branch/master/live.txt#影视范$https://agit.ai/fantaiying/fmm/raw/branch/main/tv/m3u/global.m3u&&&https://api.caonm.net/api/mc/"},
 {"key":"小苹果","name":"🍎小苹果","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"快看","name":"👀快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"360","name":"💘360影视","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
@@ -73,12 +73,19 @@
 {"key": "dr_JRS录像","name": "JRS录像(道长)","type": 1,"api": "https://456.team-426345.repl.co//vod?rule=JRS录像","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key": "dr_88看球","name": "88看球(道长)","type": 1,"api": "https://456.team-426345.repl.co//vod?rule=88看球","searchable": 0,"quickSearch": 0,"filterable": 0},
 
+{"key": "csp_Lezhutv","name": "极速┃乐猪影视","type": 3,"api": "csp_XPathMac","playerType": 2,"searchable": 1,"filterable": 1,"changeable": 1,
+"ext": "https://agit.ai/00700/vvebo/raw/branch/main/XPathMac/lezhutv.json"}, 
+{"key": "drpy_Bzhanys","name": "极速┃播站影视","type": 3,"api": "https://agit.ai/00700/vvebo/raw/branch/main/DRJS/Lib/drpy2.diy.min.js","playerType": 1,"searchable": 1,"filterable": 1,"changeable": 1,"ext": "https://agit.ai/00700/vvebo/raw/branch/main/DRJS/bzhanys.js"},
+{"key": "csp_Dadou","name": "快速┃大豆影视","type": 3,"api": "csp_XBiu","playerType": 2,"searchable": 1,"filterable": 1,"changeable": 1,
+"ext": "https://dadou.pro/vodshow/{cateId}--------{catePg}---.html"},
+{"key": "csp_91free","name": "快速┃九一电影","type": 3,"api": "csp_XBiu","playerType": 2,"searchable": 1,"filterable": 1,"changeable": 1,
+"ext": "https://91free.vip/index.php/vod/show/id/{cateId}/page/{catePg}.html"}, 
+{"key": "csp_量子资源","name": "快速┃量子资源","type": 1,"api": "https://cj.lziapi.com/api.php/provide/vod/","playerType": 2,"searchable": 1,"filterable": 1,"changeable": 1,"categories": ["国产剧", "韩国剧", "欧美剧", "香港剧", "台湾剧", "日本剧", "海外剧", "泰国剧", "记录片", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺"]},
+{"key": "csp_明帝影视","name": "️快速┃明帝影视","type": 1,"api": "https://ys.md214.cn/api.php/provide/vod/","playerType": 2,"searchable": 1,"filterable": 1,"changeable": 1,"categories": ["连续剧", "电影", "综艺", "动漫", "直播"]},
 
-
-{"key":"Kuaikan","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"量子","name":"量子影视(CJ)","type":"1","api":"http://cj.lziapi.com/api.php/provide/vod/","searchable":"1","filterable":"0","changeable":"1","categories": ["国产剧","欧美剧","韩国剧","台湾剧","香港剧","日本剧","大陆综艺","动作片","爱情片","喜剧片","科幻片","恐怖片","剧情片","战争片"]},
 {"key":"低端","name":"低端影视(SP)","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","ext":"1cc92323700909e7d46623bc85b958d6"},
-{"key":"Kuaikan","name":"快看影视(SP)","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","ext":"459b1cb892e317546676a2c9dcec2bff"},
+
 
 
 {"key":"1080资源库","name":"1080资源库(切)","type":1,"api":"https://api.1080zyku.com/inc/api_mac10.php","searchable":0,"quickSearch":0},
