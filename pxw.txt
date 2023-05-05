@@ -30,19 +30,25 @@
 {"key":"csp_Czsapp","name":"🏭厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_YQKAPP","name":"🌎一起看","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-aws.11ty.top"},
 {"key":"csp_fantuan","name":"🍙饭团","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuanhd.com"},
-{"key":"csp_555","name":"5️⃣️555影视","type":3,"api":"csp_Ys555","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.555dyy1.com"},
+{"key":"csp_555","name":"555影视","type":3,"api":"csp_Ys555","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.555dyy1.com"},
 {"key":"BuLei","name":"⚡布雷","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://movie.bulei.cc"},
 {"key":"csp_AppMr","name":"👻明明影视","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_MeiJu69","name":"🗽69美剧","type":3,"api":"csp_MeiJu69","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.69mj.com/"},
 {"key":"csp_Dy1010","name":"⏺双十电影","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Xinsj","name":"✨新视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080dy3.com"},
 {"key":"csp_panghu","name":"🐯胖虎","type":3,"api":"csp_Panghu","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_DiDuan","name":"📺低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
+//{"key":"csp_DiDuan","name":"📺低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"csp_DiDuan","name": "⏮️低端影视","type": 3,"api": "csp_Ddrk","click": "ddys.tv;#vjsp>button","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key":"csp_Voflix","name":"🌀Voflix","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Cokemv","name":"🚗可乐","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Smdyy","name":"🐎神马影院","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Auete","name":"🐼奥特","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Lib","name":"🔷LibVio","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tv.libvio.cc/"},
+{"key":"mtv_pc_焦炭影视","name":"🔥焦炭影视","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1}, 
+{"key":"csp_BuLei","name":"🎯布雷蓝光","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://v.ilime.cc$$$auto$$$sdlw1111$$$qqaa1122"},
+{"key":"csp_MeiJu69","name":"🗽69美剧┃直连","api":"csp_AppYsV2","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://www.69mj.com/xgapp.php/v2/"},
+{"key":"csp_Lgyy","name":"🌀蓝光直连","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.lgyy.vip"},
+
 {"key":"csp_Nmys","name":"🥝农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Nmys.json"},
 {"key":"csp_Ysgc","name":"🎥影视工厂","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.ysgc.vip"},
 {"key":"csp_Lgyy","name":"💧蓝光影院","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.lgyy.vip"},
@@ -62,16 +68,15 @@
 {"key":"YiSo","name":"🆎易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext": "https://try.gitea.io/woodsky1/woodsky/raw/branch/main/token"},
 {"key":"Zhaozy","name":"🦊找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext": "https://try.gitea.io/woodsky1/woodsky/raw/branch/main/token"},
 {"key":"PanSou","name":"😽盘搜","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext": "https://try.gitea.io/woodsky1/woodsky/raw/branch/main/token"},
-{"key":"UpYun","name":"☁️UP云搜","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext": "https://try.gitea.io/woodsky1/woodsky/raw/branch/main/token"},
+{"key":"UpYun","name":"UP云搜","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext": "https://try.gitea.io/woodsky1/woodsky/raw/branch/main/token"},
 {"key":"push_agent","name":"🍭推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext": "https://try.gitea.io/woodsky1/woodsky/raw/branch/main/token"},
 //体育
-{"key": "dr_310直播","name": "310直播(道长)","type": 1,"api": "https://456.team-426345.repl.co//vod?rule=310直播","searchable": 0,"quickSearch": 0,"filterable": 0},
-{"key": "dr_JRS看球网","name": "JRS看球网(道长)","type": 1,"api": "https://456.team-426345.repl.co//vod?rule=JRS看球网","searchable": 0,"quickSearch": 0,"filterable": 0},
-{"key": "dr_JRS看直播","name": "JRS看直播(道长)","type": 1,"api": "https://456.team-426345.repl.co//vod?rule=JRS看直播","searchable": 0,"quickSearch": 0,"filterable": 0},
-{"key": "dr_JRKAN直播","name": "JRKAN直播(道长)","type": 1,"api": "https://456.team-426345.repl.co//vod?rule=JRKAN直播","searchable": 0,
-"quickSearch": 0,"filterable": 0},
-{"key": "dr_JRS录像","name": "JRS录像(道长)","type": 1,"api": "https://456.team-426345.repl.co//vod?rule=JRS录像","searchable": 0,"quickSearch": 0,"filterable": 0},
-{"key": "dr_88看球","name": "88看球(道长)","type": 1,"api": "https://456.team-426345.repl.co//vod?rule=88看球","searchable": 0,"quickSearch": 0,"filterable": 0},
+{"key":"csp_Yj1211","name": "📽️在线直播","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1},
+
+{"key": "csp_XBPQ_抓饭体育","name": "🤾抓饭体育","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 0,"api": "http://alist.xn--z7x900a.love:63/drpy2.min.js","ext": "http://alist.xn--z7x900a.love:63/抓饭.js"},
+{"key": "csp_XPath_企鹅体育","name": "🐧企鹅体育","type": 3,"api": "csp_XPath","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "http://我不是.肥猫.love:63/json/企鹅直播.json"},
+{"key": "dr_88看球","name": "🏀八八看球","type": 3,"api": "http://alist.xn--z7x900a.love:63/drpy2.min.js","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "http://alist.xn--z7x900a.love:63/88看球.js"},
+{"key": "drpy_js_JRKAN直播","name": "🏀JRS看球","type": 3,"api": "http://alist.xn--z7x900a.love:63/drpy2.min.js","ext": "http://alist.xn--z7x900a.love:63/JRKAN直播.js"},
 
 {"key": "csp_Lezhutv","name": "极速┃乐猪影视","type": 3,"api": "csp_XPathMac","playerType": 2,"searchable": 1,"filterable": 1,"changeable": 1,
 "ext": "https://agit.ai/00700/vvebo/raw/branch/main/XPathMac/lezhutv.json"}, 
@@ -83,8 +88,8 @@
 {"key": "csp_量子资源","name": "快速┃量子资源","type": 1,"api": "https://cj.lziapi.com/api.php/provide/vod/","playerType": 2,"searchable": 1,"filterable": 1,"changeable": 1,"categories": ["国产剧", "韩国剧", "欧美剧", "香港剧", "台湾剧", "日本剧", "海外剧", "泰国剧", "记录片", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺"]},
 {"key": "csp_明帝影视","name": "️快速┃明帝影视","type": 1,"api": "https://ys.md214.cn/api.php/provide/vod/","playerType": 2,"searchable": 1,"filterable": 1,"changeable": 1,"categories": ["连续剧", "电影", "综艺", "动漫", "直播"]},
 
-{"key":"量子","name":"量子影视(CJ)","type":"1","api":"http://cj.lziapi.com/api.php/provide/vod/","searchable":"1","filterable":"0","changeable":"1","categories": ["国产剧","欧美剧","韩国剧","台湾剧","香港剧","日本剧","大陆综艺","动作片","爱情片","喜剧片","科幻片","恐怖片","剧情片","战争片"]},
-{"key":"低端","name":"低端影视(SP)","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","ext":"1cc92323700909e7d46623bc85b958d6"},
+
+
 
 
 
