@@ -4,7 +4,7 @@
 //"spider":"https://pan.shangui.cc/f/6mKip/Yoursmile.jar",
 //"spider":"https://456.team-426345.repl.co//files/custom_spider.jar",
 
-"spider":"https://pan.shangui.cc/f/qY0AiG/pandaQ230604.jar",
+"spider":"https://try.gitea.io/woodsky1/woodsky/raw/branch/main/pandaQ230604.jar",
 
 //"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;3FB7A166650CDE24E9BF51BC5C76E73C",
 "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
