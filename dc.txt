@@ -1,27 +1,20 @@
-
-
-
-       {
-    "urls":[
-        {
-            "url":"http://itvbox.cc/tvbox/云星日记/1.m3u8",
-            "name":"☁️云星家庭版线路"
-        },
-
- {
-            "url": "https://p.woodsky.repl.co/config/2?ver=0",
-            "name": "👙pxw_drpy1"
-        },
- {
-            "url": "https://456.team-426345.repl.co/txt/pycms2.json",
-            "name": "👙pxw_drpy2"
-        },
 {
-            "url": "https://try.gitea.io/woodsky1/woodsky/raw/branch/main/pxw.txt",
+    "urls":[
+      
+
+
+
+ {
+            "url": "https://qu.ax/RfFs.json",
+            "name": "👙高大全"
+        },
+
+{
+            "url": "https://pan.shangui.cc/f/wnnug/pxw.txt",
             "name": "👙pxw"
         },
 {
-            "url": "https://try.gitea.io/woodsky1/woodsky/raw/branch/main/18+.txt",
+            "url": "https://pan.shangui.cc/f/6QV1tp/18+.txt",
             "name": "👙18+"
         },
 
@@ -30,15 +23,9 @@
 ",
             "name": "👙蜂蜜"
         },
- {
-            "url": "https://100km.top/0",
-            "name": "👙纯一"
-        },
 
- {
-            "url": "http://9xi4o.tk/0725.json",
-            "name": "👙胡一刀"
-        },
+
+ 
    {
             "url": "http://xhww.fun:63/小米/DEMO.json",
             "name": "👙小米线路"
@@ -65,51 +52,6 @@
         },
       
        
-        {
-            "url":"http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0",
-            "name":"🎉月光线路1"
-        },
-        {
-            "url":"https://jihulab.com/ygbh1/box/-/raw/main/%E6%9C%88%E5%85%89%E5%AE%9D%E7%9B%92",
-            "name":"🌙月光线路2"
-        },
-        {
-            "url":"http://52bsj.vip:98/cl",
-            "name":"🐹月光线路3"
-        },
-        
-        {
-            "url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
-            "name":"💨南风线路"
-        },
-       
-      
-       
-        
-        {
-            "url":"https://agit.ai/relax/adcc/raw/branch/master/tvbox.json",
-            "name":"🏡巧计线路"
-        },
-      
-        {
-            "url":"https://download.kstore.space/download/2863/01.txt",
-            "name":"🥬潇洒线路"
-        },
-       
-        {
-            "url":"http://dxawi.github.io/0/0.json",
-            "name":"🚀dxawi线路"
-        },
-       
-        {
-            "url":"http://zhxy.eu.org/js",
-            "name":"✈️JS2线路"
-        },
-       
-        {
-            "url":"https://agit.ai/hu/hcr/raw/branch/master/py3.txt",
-            "name":"🍇Py线路"
-        },
        
        
         {
