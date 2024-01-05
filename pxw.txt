@@ -54,14 +54,8 @@
 {"key":"csp_Auete","name":"奥特","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_Btwtoo","name": "比特┃高清","type": 3,"jar": "https://try.gitea.io/woodsky1/woodsky/raw/branch/main/jar/custom_spider.jar","api": "csp_Bttwoo","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_WoGG","name":"玩偶哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt"},
-{"key":"360_spider","name":"360影视","type":3,"api":"csp_SP360","filterable":1,"quickSearch":1,"searchable":1},
-{"key":"csp_Kuaikan","name":"快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Czsapp","name":"厂长资源","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.czzy88.com"},
-{"key":"csp_Bdys","name":"哔嘀影视","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Ddys","name":"低端影视","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_JianPian","name":"荐片","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ownjpykxttjzuhy.jiesiwa.com"},
-{"key":"csp_Ikanbot","name": "Ikanbot","type": 3,"api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"filterable": 1},
 
+{"key":"csp_Czsapp","name":"厂长资源","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.czzy88.com"},
 
 
 
@@ -73,7 +67,6 @@
 {"key":"dr_JRKAN直播","name":"JRKAN直播","type":3,"api":"https://try.gitea.io/woodsky1/woodsky/raw/branch/main/JS/lib/drpy.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://try.gitea.io/woodsky1/woodsky/raw/branch/main/JS/JRKAN直播.js"},
 
 
-{"key":"樱花资源","name":"樱花资源","type":1,"api":"https://m3u8.apiyhzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"push_agent","name":"PushAgent","type":"3","api":"csp_Push","searchable":"1","quickSearch":"1","filterable":"1","ext":"6225d0690ede4274bdc0ce4c3b74601f"}
 ],
 "parses": [{
