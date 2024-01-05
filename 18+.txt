@@ -1,18 +1,14 @@
 {
     /*-----------------------JAR包接口-----------------------*/
-//"spider":"https://agit.ai/65012833/Jar/raw/branch/master/zy2.jar",
-//"spider":"https://pan.shangui.cc/f/6mKip/Yoursmile.jar",
-//"spider":"https://456.team-426345.repl.co//files/custom_spider.jar",
 
-"spider":"https://try.gitea.io/woodsky1/woodsky/raw/branch/main/pandaQ230604.jar",
 
-//"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;3FB7A166650CDE24E9BF51BC5C76E73C",
+"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;3FB7A166650CDE24E9BF51BC5C76E73C",
 "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 
 "sites":[
 {"key":"csp_77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"ext": ""},
 
-{"key": "dr_奇优影院","name": "奇优影院(drpy)","type": 3,"api": "https://p.woodsky.repl.co/libs/drpy.min.js","searchable": 2,"quickSearch": 1,"filterable": 1,"ext": "https://p.woodsky.repl.co/js/奇优影院.js"},
+
 {"key": "csp_91free","name": "快速┃九一电影","type": 3,"api": "csp_XBiu","playerType": 2,"searchable": 1,"filterable": 1,"changeable": 1,
 "ext": "https://91free.vip/index.php/vod/show/id/{cateId}/page/{catePg}.html"}, 
 {"key":"1080资源库","name":"1080资源库(切)","type":1,"api":"https://api.1080zyku.com/inc/api_mac10.php","searchable":0,"quickSearch":0},
